@@ -20,13 +20,18 @@
             <td><a href=https://t.me/kullaniciadidi>@kullaniciadidi</a></td>
         </tr>
         <tr>
+            <td>az</td>
+            <td>Azərbaycanca</td>
+            <td><a href=https://t.me/Xeyaldi>@Xeyaldi</a></td>
+        </tr>
+        <tr>
             <td>de</td>
             <td>German</td>
             <td><a href=https://t.me/kullaniciadidi>@kullaniciadidi</a></td>
         </tr>
         <tr>
             <td>en</td>
-            <td>Engilsh</td>
+            <td>English</td>
             <td><a href=https://t.me/kullaniciadidi>@kullaniciadidi</a></td>
         </tr>
         <tr>
