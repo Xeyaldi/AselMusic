@@ -77,7 +77,7 @@
         <tr>
             <td>tr</td>
             <td>Turkish</td>
-            <td><a href=https://github.com/AshokShau>@AshokShau</a></td>
+            <td><a href=https://t.me/kullaniciadidi>@kullaniciadidi</a></td>
         </tr>
         <tr>
             <td>zh</td>
