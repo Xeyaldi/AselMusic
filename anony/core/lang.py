@@ -14,7 +14,7 @@ from anony import db, logger
 lang_codes = {
     "ar": "العربية",
     "de": "Deutsch",
-    "en": "English",
+    "en": "Azərbaycan",
     "es": "Español",
     "fr": "Français",
     "hi": "हिन्दी",
@@ -25,7 +25,7 @@ lang_codes = {
     "ru": "Русский",
     "tr": "Türkçe",
     "zh": "中文",
-    "az": "Azərbaycanca"
+    "az": "Cənubi Azərbaycancan"
 }
 
 
