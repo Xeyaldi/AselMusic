@@ -25,7 +25,7 @@ lang_codes = {
     "ru": "Русский",
     "tr": "Türkçe",
     "zh": "中文",
-    "az": "Cənubi Azərbaycancan"
+    "az": "Güney Azərbaycancan"
 }
 
 
