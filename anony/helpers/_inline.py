@@ -154,7 +154,7 @@ class Inline:
                 [
                     self.ikb(
                         text=lang["source"],
-                        url="https://t.me/aysberqqq",
+                        url="https://t.me/nunum_tag_bot",
                     )
                 ]
             )
